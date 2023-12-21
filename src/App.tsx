@@ -36,7 +36,6 @@ const posts: PostType[] = [
   },
 ]
 
-
 export function App() {
   return (
     <div>
@@ -57,7 +56,6 @@ export function App() {
             })}
         </main>
       </div>
-
     </div>
   )
 }
